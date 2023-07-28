@@ -2,7 +2,7 @@
 
 Using Pade approximants and domain shifts to calculate trigonometric functions for a given input.
 
-<img src="images/pade_image.jpg" height="900">
+<img src="images/pade_image.jpg" width="100%" height="auto">
 
 
 More info in the research paper: 
